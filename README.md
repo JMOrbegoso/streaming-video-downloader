@@ -34,16 +34,17 @@ services:
 
 #### Environment variables
 
-| Variable        | Function                                       |
-|-----------------|------------------------------------------------|
+| Variable        | Function                                                            |
+| --------------- | ------------------------------------------------------------------- |
 | TWITCH_CHANNELS | Declaration of the Twitch channels to monitorize (space separated). |
-| STREAM_QUALITY  | Quality of the streams to download.            |
-| STREAM_OPTIONS  | Aditional Streamlink parameters.               |
+| STREAM_QUALITY  | Quality of the streams to download.                                 |
+| STREAM_OPTIONS  | Aditional Streamlink parameters.                                    |
 
 ## 🧑‍💻 Author
 
 **JMOrbegoso**
 
-- Website: [jmorbegoso.com](https://www.jmorbegoso.com)
+- Website: [www.jmorbegoso.dev](https://www.jmorbegoso.dev)
+- Blog: [blog.jmorbegoso.dev](https://blog.jmorbegoso.dev)
 - Github: [@JMOrbegoso](https://github.com/JMOrbegoso/)
 - LinkedIn: [@jmorbegosodev](https://www.linkedin.com/in/jmorbegosodev/)
